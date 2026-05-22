@@ -1,0 +1,6 @@
+{
+  "name": "Professor Takehito Hayami Lab",
+  "description": "Bilingual academic laboratory website for Professor Takehito Hayami at The University of Kitakyushu, specializing in Biomedical Engineering & Human Information Processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
